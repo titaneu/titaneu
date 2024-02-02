@@ -1,3 +1,3 @@
 ### Hi, I'm Titan
 
-![Discord Presence](https://lanyard.cnrad.dev/api/562651567904260111?idleMessage=hi)
+![Discord Presence](https://lanyard.cnrad.dev/api/562651567904260111?idleMessage=hello%20there.)
